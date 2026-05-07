@@ -1,1 +1,1 @@
-echo "My project"
+echo "My project is here"
